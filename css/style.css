@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'bebasregular';
+  src : url('../font/RobotoSlab-Light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: bebasregular,Arial,Sans-Serif;
+  background-color: rgb(239, 241, 237);
+}
+.jumbotron {
+  padding-top: 2em;
+  background-color: rgb(163, 177, 138);
+}
+.img-rendi {
+  box-shadow: 0px 0px 60px 5px #fffd22b2;
+}
+.warna-nav,.warna-footer {
+  background-color: rgb(52, 78, 65);
+}
+.Projects {
+  background-color: rgb(163, 177, 138);
+}
+section {
+  padding-top: 4rem;
+}
+.garis {
+  height: 2px;
+  width: 180px;
+  background-color: rgb(58, 90, 64);
+  margin: -5px auto;
+}
