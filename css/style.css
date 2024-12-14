@@ -13,9 +13,9 @@ body {
   padding-top: 2em;
   background-color: rgb(163, 177, 138);
 }
-/* .img-rendi {
-  box-shadow: 0px 0px 10px 50px #fffd22b2;
-} */
+.img-rendi {
+  box-shadow: 0px 0px 60px 5px #fffd22b2;
+}
 .warna-nav,
 .warna-footer {
   background-color: rgb(52, 78, 65);
