@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'bebasregular';
-  src : url('../font/RobotoSlab-Light-webfont.woff') format('woff');
+  font-family: "bebasregular";
+  src: url("../font/RobotoSlab-Light-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-  font-family: bebasregular,Arial,Sans-Serif;
+  font-family: bebasregular, Arial, Sans-Serif;
   background-color: rgb(239, 241, 237);
 }
 .jumbotron {
@@ -14,9 +14,10 @@ body {
   background-color: rgb(163, 177, 138);
 }
 .img-rendi {
-  box-shadow: 0px 0px 60px 5px #fffd22b2;
+  box-shadow: 0px 0px 10px 50px #fffd22b2;
 }
-.warna-nav,.warna-footer {
+.warna-nav,
+.warna-footer {
   background-color: rgb(52, 78, 65);
 }
 .Projects {
